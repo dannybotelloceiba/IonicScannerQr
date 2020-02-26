@@ -1,0 +1,8 @@
+{
+  "appId": "co.com.ceiba",
+  "appName": "ionic-capacitor-barcode-scanner",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
